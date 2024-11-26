@@ -1,0 +1,13 @@
+{
+    "factorio.versions": [
+        {
+            "name": "Space age",
+            "factorioPath": "c:\\Users\\theis\\Desktop\\Space_age\\Factorio_2.0.21\\bin\\x64\\factorio.exe",
+            "active": true
+        }
+    ],
+    "Lua.workspace.userThirdParty": [
+        "c:\\Users\\theis\\AppData\\Roaming\\Code\\User\\workspaceStorage\\8587796ad76632ce9ac5acf2aac6b750\\justarandomgeek.factoriomod-debug\\sumneko-3rd"
+    ],
+    "Lua.workspace.checkThirdParty": "ApplyInMemory"
+}
