@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 2024-11-25
+  Changes:
+    - Added chinese translation
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2024-11-23
+  Changes:
+    - Updated Factorio version to 2.0
+    - Removed unnessary comments in code
+    - Added Start enabled setting, for starting with the reach circles visible
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-08-02
+  Changes:
+    - Fixed toggle circles not toggling on keybinding
+    - Fixed circles updating each pass due to using wrong comparison value
+    - Added settings for changing the color of each circle
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2024-01-04
+  Changes:
+    - Started
+    - Added events to handle most situations

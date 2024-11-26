@@ -1,0 +1,10 @@
+{
+	"name": "character_reach_indicator",
+	"version": "2.0.1",
+	"title": "Character reach indicator",
+	"author": "Theis",
+	"factorio_version": "2.0",
+	"contact": "",
+	"description": "Tool for finding your characters reach potential",
+	"dependencies": ["base >= 2.0.19"]
+}
